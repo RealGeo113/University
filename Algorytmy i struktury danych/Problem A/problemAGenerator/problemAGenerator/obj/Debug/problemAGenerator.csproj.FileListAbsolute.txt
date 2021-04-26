@@ -1,0 +1,6 @@
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\problemAGenerator\problemAGenerator\bin\Debug\problemAGenerator.exe.config
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\problemAGenerator\problemAGenerator\bin\Debug\problemAGenerator.exe
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\problemAGenerator\problemAGenerator\bin\Debug\problemAGenerator.pdb
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\problemAGenerator\problemAGenerator\obj\Debug\problemAGenerator.csprojAssemblyReference.cache
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\problemAGenerator\problemAGenerator\obj\Debug\problemAGenerator.exe
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\problemAGenerator\problemAGenerator\obj\Debug\problemAGenerator.pdb

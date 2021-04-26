@@ -1,0 +1,6 @@
+C:\Users\Grzegorz\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemAResultChecker\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Grzegorz\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemAResultChecker\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Grzegorz\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemAResultChecker\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Grzegorz\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemAResultChecker\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Grzegorz\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemAResultChecker\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Grzegorz\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemAResultChecker\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

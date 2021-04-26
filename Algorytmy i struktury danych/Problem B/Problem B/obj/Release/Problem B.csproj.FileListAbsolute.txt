@@ -1,0 +1,6 @@
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem B\Problem B\bin\Release\Problem B.exe.config
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem B\Problem B\bin\Release\Problem B.exe
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem B\Problem B\bin\Release\Problem B.pdb
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem B\Problem B\obj\Release\Problem B.csprojAssemblyReference.cache
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem B\Problem B\obj\Release\Problem B.exe
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem B\Problem B\obj\Release\Problem B.pdb

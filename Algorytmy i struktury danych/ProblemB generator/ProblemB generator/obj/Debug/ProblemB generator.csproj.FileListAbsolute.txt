@@ -1,0 +1,12 @@
+C:\Users\Grzegorz\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemB generator\ProblemB generator\bin\Debug\ProblemB generator.exe.config
+C:\Users\Grzegorz\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemB generator\ProblemB generator\bin\Debug\ProblemB generator.exe
+C:\Users\Grzegorz\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemB generator\ProblemB generator\bin\Debug\ProblemB generator.pdb
+C:\Users\Grzegorz\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemB generator\ProblemB generator\obj\Debug\ProblemB generator.csprojAssemblyReference.cache
+C:\Users\Grzegorz\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemB generator\ProblemB generator\obj\Debug\ProblemB generator.exe
+C:\Users\Grzegorz\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemB generator\ProblemB generator\obj\Debug\ProblemB generator.pdb
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemB generator\ProblemB generator\bin\Debug\ProblemB generator.exe.config
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemB generator\ProblemB generator\bin\Debug\ProblemB generator.exe
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemB generator\ProblemB generator\bin\Debug\ProblemB generator.pdb
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemB generator\ProblemB generator\obj\Debug\ProblemB generator.csprojAssemblyReference.cache
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemB generator\ProblemB generator\obj\Debug\ProblemB generator.exe
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemB generator\ProblemB generator\obj\Debug\ProblemB generator.pdb

@@ -1,0 +1,6 @@
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem A\ProblemA_AveragePoint\ProblemA_AveragePoint\bin\Release\ProblemA_AveragePoint.exe.config
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem A\ProblemA_AveragePoint\ProblemA_AveragePoint\bin\Release\ProblemA_AveragePoint.exe
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem A\ProblemA_AveragePoint\ProblemA_AveragePoint\bin\Release\ProblemA_AveragePoint.pdb
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem A\ProblemA_AveragePoint\ProblemA_AveragePoint\obj\Release\ProblemA_AveragePoint.csprojAssemblyReference.cache
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem A\ProblemA_AveragePoint\ProblemA_AveragePoint\obj\Release\ProblemA_AveragePoint.exe
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem A\ProblemA_AveragePoint\ProblemA_AveragePoint\obj\Release\ProblemA_AveragePoint.pdb

@@ -1,0 +1,18 @@
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemAgeneratorStandIO\ProblemAgeneratorStandIO\bin\Debug\ProblemAgeneratorStandIO.exe.config
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemAgeneratorStandIO\ProblemAgeneratorStandIO\bin\Debug\ProblemAgeneratorStandIO.exe
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemAgeneratorStandIO\ProblemAgeneratorStandIO\bin\Debug\ProblemAgeneratorStandIO.pdb
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemAgeneratorStandIO\ProblemAgeneratorStandIO\obj\Debug\ProblemAgeneratorStandIO.csprojAssemblyReference.cache
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemAgeneratorStandIO\ProblemAgeneratorStandIO\obj\Debug\ProblemAgeneratorStandIO.exe
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\ProblemAgeneratorStandIO\ProblemAgeneratorStandIO\obj\Debug\ProblemAgeneratorStandIO.pdb
+C:\Users\Grzegorz\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem A\ProblemAgeneratorStandIO\ProblemAgeneratorStandIO\bin\Debug\ProblemAgeneratorStandIO.exe.config
+C:\Users\Grzegorz\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem A\ProblemAgeneratorStandIO\ProblemAgeneratorStandIO\bin\Debug\ProblemAgeneratorStandIO.exe
+C:\Users\Grzegorz\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem A\ProblemAgeneratorStandIO\ProblemAgeneratorStandIO\bin\Debug\ProblemAgeneratorStandIO.pdb
+C:\Users\Grzegorz\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem A\ProblemAgeneratorStandIO\ProblemAgeneratorStandIO\obj\Debug\ProblemAgeneratorStandIO.csprojAssemblyReference.cache
+C:\Users\Grzegorz\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem A\ProblemAgeneratorStandIO\ProblemAgeneratorStandIO\obj\Debug\ProblemAgeneratorStandIO.exe
+C:\Users\Grzegorz\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem A\ProblemAgeneratorStandIO\ProblemAgeneratorStandIO\obj\Debug\ProblemAgeneratorStandIO.pdb
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem A\ProblemAgeneratorStandIO\ProblemAgeneratorStandIO\bin\Debug\ProblemAgeneratorStandIO.exe.config
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem A\ProblemAgeneratorStandIO\ProblemAgeneratorStandIO\bin\Debug\ProblemAgeneratorStandIO.exe
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem A\ProblemAgeneratorStandIO\ProblemAgeneratorStandIO\bin\Debug\ProblemAgeneratorStandIO.pdb
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem A\ProblemAgeneratorStandIO\ProblemAgeneratorStandIO\obj\Debug\ProblemAgeneratorStandIO.csprojAssemblyReference.cache
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem A\ProblemAgeneratorStandIO\ProblemAgeneratorStandIO\obj\Debug\ProblemAgeneratorStandIO.exe
+C:\Users\grzeg\OneDrive - The Opole University of Technology\Algorytmy i struktury danych\Problem A\ProblemAgeneratorStandIO\ProblemAgeneratorStandIO\obj\Debug\ProblemAgeneratorStandIO.pdb
